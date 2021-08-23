@@ -1,2 +1,2 @@
-# mifirstrepo11
-this is my fisrt repo
+# repo11
+this is my repo
