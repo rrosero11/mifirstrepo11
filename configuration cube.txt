@@ -1,0 +1,8 @@
+Teradek side
+
+* Resolution = Native
+* Bitrate + resolution = play with it
+
+VLC Side
+
+* Play to reduce the cache y streaming.
